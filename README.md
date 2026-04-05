@@ -96,7 +96,7 @@ Derived state (filtered/sorted transactions, totals) is computed at the Context 
 
 ## Assumptions
 
-- All data is mock/static — no real backend or API
+- All data is mock/static 
 - Role switching is UI-only for demonstration
-- Transactions span Oct 2025 – Mar 2026 (6 months)
-- Currency is USD
+- Transactions span Dec 2024 – Mar 2026 
+- Currency is INR
